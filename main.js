@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const yesButton = document.querySelector(".choice-box button:first-child");
     const noButton = document.querySelector(".choice-box button:last-child");
 
-    let partnerName = "JILLIAN"; // Replace with dynamic value
+    let partnerName = "Tania"; // Replace with dynamic value
     let noClickCount = 0; // Counter for No button clicks
 
     // Function to create typewriter effect
@@ -75,7 +75,22 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     
     yesButton.addEventListener("click", function () {
-        questionText.innerHTML = `<span class="partner-name">${partnerName}</span><br><span class="love-text">I love you baby ❤️</span>`;
+       questionText.innerHTML = `
+        <div class="message-wrapper">
+            <div class="partner-name">${partnerName}</div>
+
+            <p class="love-text">
+                I know I mess up sometimes and do things imperfectly 🌸<br>
+                So here’s one more imperfect thing —<br>
+                said honestly, just for you 💕
+            </p>
+
+            <p class="love-text">
+                As promised, let’s go for LIIT 🍷<br>
+                I’ll handle everything ❤️
+            </p>
+        </div>
+    `;
         choiceBox.style.display = "none"; // Hide choices
         threedBox.classList.remove("hide");
 
