@@ -77,31 +77,50 @@ document.addEventListener("DOMContentLoaded", function () {
         <p class="love-text block">
             I know we haven’t met yet,<br>
             and maybe you don’t know me completely —<br>
-            but sometimes a feeling doesn’t need time,<br>
+            but sometimes a feeling doesn’t need an introduction,<br>
             it just needs a chance ✨
         </p>
 
         <p class="love-text block">
-            Let’s meet somewhere quiet,<br>
-            where the world feels calm,<br>
-            but your voice is the loudest thing I hear 🤍
+            So Let’s meet <br>
+            Not to Impress, not to rush- <br>
+            But to sit somewhere quiet,<br>
+            where the world speaks softly<br>
+            and your voice somehow speaks the loudest ✨
         </p>
 
         <p class="love-text block">
-            I want to know you —<br>
-            between shared laughs and random jokes,<br>
-            listening to you like nothing else matters 🌸
+            I’d like to know you—<br>
+            between shared laughs and badly timed jokes,<br>
+            listening to your stories<br>
+            like they’re my favorite playlist 🎶
         </p>
 
         <p class="love-text block">
-            We’ll fight for the food (just a little 😉),<br>
-            but the dessert will always be yours 🍰
+            We’ll probably fight over the food,<br>
+            pretend we won’t,<br>
+            but the dessert?<br>
+            That’s always yours 🍰😉    
         </p>
 
         <p class="love-text block">
-            It doesn’t have to be Valentine’s Day,<br>
-            because if we meet,<br>
-            that day itself will feel more special than one 💕
+          Flowers might bloom around us,<br>
+          trying their best—<br>
+          but even they’ll know<br>
+          they’re not the brightest thing there 🌸   
+        </p>
+
+        <p class="love-text block">
+            It doesn’t have to be Valentine’s Day.<br>
+            If we meet,<br>
+            let that day be special enough<br>
+            to make every Valentine a little jealous ❤️
+        </p>
+
+        <p class="love-text block">
+            Just a simple moment.<br>
+            A beautiful one.<br>
+            With you.
         </p>
     </div>
     `;
