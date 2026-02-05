@@ -74,31 +74,31 @@ document.addEventListener("DOMContentLoaded", function () {
         <div class="message-wrapper">
         <div class="partner-name">${partnerName}</div>
 
-        <p class="love-text">
+        <p class="love-text block">
             I know we haven’t met yet,<br>
             and maybe you don’t know me completely —<br>
             but sometimes a feeling doesn’t need time,<br>
             it just needs a chance ✨
         </p>
 
-        <p class="love-text">
+        <p class="love-text block">
             Let’s meet somewhere quiet,<br>
             where the world feels calm,<br>
             but your voice is the loudest thing I hear 🤍
         </p>
 
-        <p class="love-text">
+        <p class="love-text block">
             I want to know you —<br>
             between shared laughs and random jokes,<br>
             listening to you like nothing else matters 🌸
         </p>
 
-        <p class="love-text">
+        <p class="love-text block">
             We’ll fight for the food (just a little 😉),<br>
             but the dessert will always be yours 🍰
         </p>
 
-        <p class="love-text">
+        <p class="love-text block">
             It doesn’t have to be Valentine’s Day,<br>
             because if we meet,<br>
             that day itself will feel more special than one 💕
